@@ -32,7 +32,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mkandy25&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?Mkandy25=Mkandy25&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkandy25&layout=compact&theme=tokyonight" />
 </p>
 
@@ -41,7 +41,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mkandy25&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?Mkandy25=Mkandy25&theme=tokyonight" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mkandy25&theme=tokyonight&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?Mkandy25=Mkandy25&theme=tokyonight&no-frame=true&row=1" />
 </p>
 
 ---
@@ -78,5 +78,5 @@ Interactive museum web app with QR scanning.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mkandy25&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?Mkandy25=Mkandy25&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
