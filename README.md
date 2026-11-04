@@ -45,10 +45,6 @@
 
 ## 📊 GitHub stats
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mkandy25&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mkandy25&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
 
 <p>
   <img src="https://streak-stats.demolab.com?user=Mkandy25&theme=tokyonight" alt="GitHub streak" />
