@@ -7,7 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Web+Developer;AI+Enthusiast;Future+Software+Engineer;Always+Learning+New+Things" alt="Typing animation" />
 </p>
 </div>
----
 
 ##  About me
 
@@ -31,7 +30,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
 
 
 ## 📊 GitHub stats
