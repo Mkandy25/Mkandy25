@@ -1,6 +1,6 @@
 # Hi 👋, I'm Andy Mbuyi
 
-### 💻 Software Engineering Student · Web & AI · Based in DR Congo 🇨🇩
+### 💻 Software & AI Engineering Student · Based in DR Congo 🇨🇩
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Web+Developer;AI+Enthusiast;Future+Software+Engineer;Always+Learning+New+Things" alt="Typing animation" />
