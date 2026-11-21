@@ -1,5 +1,5 @@
 <div align="center">
-# Hi 👋, I'm Andy Mbuyi
+<h1>Hi 👋, I'm Andy Mbuyi</h1> 
 
 ### 💻 Software & AI Engineering Student · Based in DR Congo 🇨🇩
 
