@@ -16,9 +16,9 @@
 - 🌱 Currently learning: JavaScript (deeper), Python, building real projects end to end
 - 🤝 Open to collaborating on small web / AI projects and to learning from more experienced devs
 
----
 
-## 🛠️ Tech stack
+
+##  Tech stack
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -47,7 +47,7 @@
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mkandy25&theme=tokyonight)](https://github.com/Mkandy25)
 
 </div>
----
+
 
 ## 📫 Connect with me
 
