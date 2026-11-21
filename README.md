@@ -40,7 +40,7 @@
 </div>
 <div align="center">
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mkandy25&theme=tokyonight)](https://github.com/Tresorkaseka)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mkandy25&theme=tokyonight)](https://github.com/Mkandy25)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mkandy25&theme=tokyonight)](https://github.com/Mkandy25)
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mkandy25&theme=tokyonight)](https://github.com/Mkandy25)
@@ -50,7 +50,11 @@
 
 ## 📫 Connect with me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TON_EMAIL@exemple.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TON_PROFIL/)
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-andymbuyi08@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andymbuyi08@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andy_Mbuyi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andy-mbuyi-dev/)
+
+</div>
 
 <sub>If it feels right, it is!</sub>
