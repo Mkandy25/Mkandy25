@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Hi 👋, I'm Andy Mbuyi</h1> 
 
-### 💻 Software & AI Engineering Student · Based in DR Congo 🇨🇩
+###  Software & AI Engineering Student · Based in DR Congo 🇨🇩
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Web+Developer;AI+Enthusiast;Future+Software+Engineer;Always+Learning+New+Things" alt="Typing animation" />
@@ -10,11 +10,11 @@
 
 ##  About me
 
-- 🎓 Software Engineering student at UNH
-- 💡 Building web apps and exploring how AI can make them smarter
-- 🎮 Curious about game development
-- 🌱 Currently learning: JavaScript (deeper), Python, building real projects end to end
-- 🤝 Open to collaborating on small web / AI projects and to learning from more experienced devs
+- Software Engineering student at UNH
+- Building web apps and exploring how AI can make them smarter
+- Curious about game development
+- Currently learning: JavaScript (deeper), Python, building real projects end to end
+- Open to collaborating on small web / AI projects and to learning from more experienced devs
 
 
 ##  Tech stack
@@ -30,7 +30,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-## 📊 GitHub stats
+##  GitHub stats
 
 <div align="center">
 <p>
@@ -47,7 +47,7 @@
 </div>
 
 
-## 📫 Connect with me
+##  Connect with me
 
 <div align="center">
 
